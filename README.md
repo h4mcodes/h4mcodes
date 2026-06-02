@@ -3,10 +3,10 @@
 Build, break, figure out why and how they broke.
 
 Currently obsessed with:
-- Full-Stack Development
-- DevOps
-- AI + Networking
-- Linux
+- 👾 Full-Stack Development
+- ♾️ DevOps
+- 🌐 AI + Networking
+- 🐧 Linux
 
 ### Toolbox
 <p align="left">
