@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hamza
 
-<!--
-**h4mcodes/h4mcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Build, break, figure out why and how they broke.
 
-Here are some ideas to get you started:
+Currently obsessed with:
+- Full-Stack Development
+- DevOps
+- AI + Networking
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Toolbox
+Python • Java • JavaScript • Linux • Docker • MySQL • Git
+
+### Status
+Learning. Building. Failing. Improving.
