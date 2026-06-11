@@ -19,7 +19,7 @@ Currently obsessed with:
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" />
 
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,linux,git,github" />
