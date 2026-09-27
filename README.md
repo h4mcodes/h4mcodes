@@ -1,6 +1,6 @@
 # Hamza
 
-Backend Development • DevOps • AI & Networking • Linux
+Web Development • DevOps • AI & Networking • Linux
 
 I enjoy building systems, understanding how they fail, and improving them through code, automation, and continuous learning.
 
